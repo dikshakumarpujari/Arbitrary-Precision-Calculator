@@ -41,4 +41,4 @@ Division:
 1. Compile the code:
    gcc *.c -o apc
 3. Run the program:
-   ./apc <num1> operator <num2>
+   ./apc num1 operator num2
